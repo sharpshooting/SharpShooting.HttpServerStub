@@ -1,0 +1,8 @@
+*resharper.user
+
+*.suo
+
+bin/
+obj/
+
+!ThirdPartyLibraries/
